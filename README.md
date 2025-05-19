@@ -73,9 +73,9 @@ The following steps were undertaken:
 
 
 
-## Forecast Output (Sep 2022 – Aug 2023)
+## Forecast Output for Model 2 (Sep 2022 – Aug 2023)
 
-| Month | Model 2 Forecast |
+| Month | Forecast |
 |-------|------------------|
 | Sep 22 | 56.51            |
 | Oct 22 | 62.45            |
